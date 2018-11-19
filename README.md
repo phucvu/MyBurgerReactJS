@@ -15,3 +15,6 @@ $npm install redux-thunk
 // redux dev tool: 
 // https://github.com/zalmoxisus/redux-devtools-extension
 
+
+// deploy
+
